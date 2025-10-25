@@ -3,5 +3,4 @@ I craft intelligent systems, merge data with strategy, and push the boundaries o
 
 - 🌱 I’m currently learning **Python 3**
 
-  
-[![Jenica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jznica)](https://github.com/anuraghazra/github-readme-stats)
+  ![Jenica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jznica&show_icons=true&theme=radical)
