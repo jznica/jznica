@@ -21,8 +21,8 @@
 ## 🌷 connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/linkedin-pink?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jznicaa">
+    <img src="https://img.shields.io/badge/linkedin-jenica%20💗-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
