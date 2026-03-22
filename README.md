@@ -31,12 +31,18 @@
 ## 💻 tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,js,html,css,nodejs,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/machine%20learning-softpink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/data%20analytics-softpink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/machine%20learning-ffc0cb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/data%20analytics-ffc0cb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/statistics-ffc0cb?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/web%20development-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/learning%20deep%20learning-ffb6c1?style=for-the-badge" />
 </p>
 
 ---
