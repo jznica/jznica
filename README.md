@@ -1,22 +1,83 @@
-## Hi 👋, I'm Jenica</h1>
-I craft intelligent systems, merge data with strategy, and push the boundaries of technology. 
-> focus: Machine Learning, AI Research, Deep Learning, Data Analytics</h3>
+<div align="center">
 
-- 🌱 Currently working on ML projects
+# ✧･ﾟ: *✧･ﾟ:* Hi, I'm Jenica 👋 *:･ﾟ✧*:･ﾟ✧
 
+### 💭 *building intelligent things, one step at a time*
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jznicaa) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jznica&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jznica&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jznica&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 about me
+
+♡ exploring **machine learning & AI**
+♡ currently learning **stanford ML specialization**
+♡ beginner coder with **hands-on python projects**
+♡ interested in **data + real-world impact**
+♡ mixing **aesthetic + technology**
+
+---
+
+## 🌷 connect
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/linkedin-pink?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,c" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/machine%20learning-softpink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/data%20analytics-softpink?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ projects
+
+### 🔍 truth whisper ai
+
+✧ lie detection web app
+✧ built with typescript
+✧ [live demo](https://truth-whisper-ai.vercel.app/)
+
+---
+
+### 🏎️ personality porsche
+
+✧ aesthetic personality-based recommender
+✧ fun + interactive UI
+✧ blends logic + creativity
+
+---
+
+## 📊 github energy
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jznica&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jznica&theme=rose_pine" />
+</p>
+
+---
+
+## 🌱 currently growing
+
+♡ machine learning fundamentals
+♡ python problem solving
+♡ building real AI projects
+
+---
+
+<div align="center">
+
+✨ *learning. building. becoming.* ✨
+
+</div>
